@@ -1,1 +1,0 @@
-# bs23-training
